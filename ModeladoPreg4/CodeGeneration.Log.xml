@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///C:/PROGRAM FILES (X86)/MICROSOFT VISUAL STUDIO 11.0/COMMON7/IDE/EXTENSIONS/MICROSOFT/ARCHITECTURE TOOLS/EXTENSIBILITY/Logging/CodeGenLog.xslt"?>
+<Log xmlns="http://schemas.microsoft.com/VisualStudio/2010/CodeGen.RE.Log" Label="Registro de generación de código/transformación de texto">
+  <MessageClass Name="Message" Label="Mensaje" Option="Mostrar mensajes informativos" />
+  <MessageClass Name="Warning" Label="Advertencia" Option="Mostrar advertencias" />
+  <MessageClass Name="Error" Label="Error" Option="Mostrar errores" />
+  <MessageClass Name="Property" Label="Propiedad" Option="Mostrar metadatos" />
+  <MessageClass Name="Diagnostic" Label="Mensaje" Option="Mostrar mensajes de diagnóstico" />
+  <Message Timestamp="2017-11-18T11:07:31" Importance="High" Text="Se inició la generación de código o la transformación de texto." />
+  <Message Timestamp="2017-11-18T11:07:31" Importance="Diagnostic" Text="Nombre = ClassTemplate" />
+  <Message Timestamp="2017-11-18T11:07:31" Importance="Diagnostic" Text="Sobrescribir = True" />
+  <Message Timestamp="2017-11-18T11:07:31" Importance="Diagnostic" Text="ProjectPath = ..\ModeladoPreg4Lib\ModeladoPreg4Lib.csproj" />
+  <Message Timestamp="2017-11-18T11:07:31" Importance="Diagnostic" Text="TargetDirectory = GeneratedCode\{PackageStructure}" />
+  <Message Timestamp="2017-11-18T11:07:31" Importance="Diagnostic" Text="TargetName = {Name}" />
+  <Message Timestamp="2017-11-18T11:07:31" Importance="Diagnostic" Text="TemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 11.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\ClassTemplate.t4" />
+  <Message Timestamp="2017-11-18T11:07:31" Importance="Diagnostic" Text="ResolvedTemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 11.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\ClassTemplate.t4" />
+  <Message Timestamp="2017-11-18T11:07:31" Importance="Medium" Text="Enlace de plantilla de texto de ModeladoPreg4: 'ClassTemplate' aplicará ClassTemplate.t4 a: 'ModeladoPreg4::Messaging' -  (Class), 'ModeladoPreg4::QuickMessenger' -  (Class), 'ModeladoPreg4::VIPMessenger' -  (Class), 'ModeladoPreg4::EZMessenger' -  (Class), 'ModeladoPreg4::SecureQuickMessenger' -  (Class), 'ModeladoPreg4::SecureVIPMessenger' -  (Class), 'ModeladoPreg4::SecureEZMessenger' -  (Class), 'ModeladoPreg4::SelfDestructingQuickMessenger' -  (Class), 'ModeladoPreg4::SelfDestructingEZMessenger' -  (Class), 'ModeladoPreg4::SelfDestructingVIPMessenger' -  (Class) " />
+  <Message Timestamp="2017-11-18T11:07:32" Importance="Medium" Text="'ModeladoPreg4::Messaging' -  (Class): correcto (archivo reemplazado) - C:\Users\POST-GRADO\Desktop\Patron_Adapter\ExamenFinalPatrones\ModeladoPreg4Lib\GeneratedCode\Messaging.cs" />
+  <Message Timestamp="2017-11-18T11:07:32" Importance="Medium" Text="'ModeladoPreg4::QuickMessenger' -  (Class): correcto (archivo reemplazado) - C:\Users\POST-GRADO\Desktop\Patron_Adapter\ExamenFinalPatrones\ModeladoPreg4Lib\GeneratedCode\QuickMessenger.cs" />
+  <Message Timestamp="2017-11-18T11:07:32" Importance="Medium" Text="'ModeladoPreg4::VIPMessenger' -  (Class): correcto (archivo reemplazado) - C:\Users\POST-GRADO\Desktop\Patron_Adapter\ExamenFinalPatrones\ModeladoPreg4Lib\GeneratedCode\VIPMessenger.cs" />
+  <Message Timestamp="2017-11-18T11:07:32" Importance="Medium" Text="'ModeladoPreg4::EZMessenger' -  (Class): correcto (archivo reemplazado) - C:\Users\POST-GRADO\Desktop\Patron_Adapter\ExamenFinalPatrones\ModeladoPreg4Lib\GeneratedCode\EZMessenger.cs" />
+  <Message Timestamp="2017-11-18T11:07:32" Importance="Medium" Text="'ModeladoPreg4::SecureQuickMessenger' -  (Class): correcto (archivo reemplazado) - C:\Users\POST-GRADO\Desktop\Patron_Adapter\ExamenFinalPatrones\ModeladoPreg4Lib\GeneratedCode\SecureQuickMessenger.cs" />
+  <Message Timestamp="2017-11-18T11:07:32" Importance="Medium" Text="'ModeladoPreg4::SecureVIPMessenger' -  (Class): correcto (archivo reemplazado) - C:\Users\POST-GRADO\Desktop\Patron_Adapter\ExamenFinalPatrones\ModeladoPreg4Lib\GeneratedCode\SecureVIPMessenger.cs" />
+  <Message Timestamp="2017-11-18T11:07:32" Importance="Medium" Text="'ModeladoPreg4::SecureEZMessenger' -  (Class): correcto (archivo reemplazado) - C:\Users\POST-GRADO\Desktop\Patron_Adapter\ExamenFinalPatrones\ModeladoPreg4Lib\GeneratedCode\SecureEZMessenger.cs" />
+  <Message Timestamp="2017-11-18T11:07:32" Importance="Medium" Text="'ModeladoPreg4::SelfDestructingQuickMessenger' -  (Class): correcto (archivo reemplazado) - C:\Users\POST-GRADO\Desktop\Patron_Adapter\ExamenFinalPatrones\ModeladoPreg4Lib\GeneratedCode\SelfDestructingQuickMessenger.cs" />
+  <Message Timestamp="2017-11-18T11:07:32" Importance="Medium" Text="'ModeladoPreg4::SelfDestructingEZMessenger' -  (Class): correcto (archivo reemplazado) - C:\Users\POST-GRADO\Desktop\Patron_Adapter\ExamenFinalPatrones\ModeladoPreg4Lib\GeneratedCode\SelfDestructingEZMessenger.cs" />
+  <Message Timestamp="2017-11-18T11:07:32" Importance="Medium" Text="'ModeladoPreg4::SelfDestructingVIPMessenger' -  (Class): correcto (archivo reemplazado) - C:\Users\POST-GRADO\Desktop\Patron_Adapter\ExamenFinalPatrones\ModeladoPreg4Lib\GeneratedCode\SelfDestructingVIPMessenger.cs" />
+  <Message Timestamp="2017-11-18T11:07:32" Importance="Diagnostic" Text="Nombre = InterfaceTemplate" />
+  <Message Timestamp="2017-11-18T11:07:32" Importance="Diagnostic" Text="Sobrescribir = True" />
+  <Message Timestamp="2017-11-18T11:07:32" Importance="Diagnostic" Text="ProjectPath = ..\ModeladoPreg4Lib\ModeladoPreg4Lib.csproj" />
+  <Message Timestamp="2017-11-18T11:07:32" Importance="Diagnostic" Text="TargetDirectory = GeneratedCode\{PackageStructure}" />
+  <Message Timestamp="2017-11-18T11:07:32" Importance="Diagnostic" Text="TargetName = {Name}" />
+  <Message Timestamp="2017-11-18T11:07:32" Importance="Diagnostic" Text="TemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 11.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\InterfaceTemplate.t4" />
+  <Message Timestamp="2017-11-18T11:07:32" Importance="Diagnostic" Text="ResolvedTemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 11.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\InterfaceTemplate.t4" />
+  <Message Timestamp="2017-11-18T11:07:32" Importance="Medium" Text="Enlace de plantilla de texto de ModeladoPreg4: 'InterfaceTemplate' aplicará InterfaceTemplate.t4 a: 'ModeladoPreg4::BridgeSecureMessenger' -  (Interface), 'ModeladoPreg4::BridgeDestructingMessenger' -  (Interface) " />
+  <Message Timestamp="2017-11-18T11:07:32" Importance="Medium" Text="'ModeladoPreg4::BridgeSecureMessenger' -  (Interface): correcto (archivo reemplazado) - C:\Users\POST-GRADO\Desktop\Patron_Adapter\ExamenFinalPatrones\ModeladoPreg4Lib\GeneratedCode\BridgeSecureMessenger.cs" />
+  <Message Timestamp="2017-11-18T11:07:32" Importance="Medium" Text="'ModeladoPreg4::BridgeDestructingMessenger' -  (Interface): correcto (archivo reemplazado) - C:\Users\POST-GRADO\Desktop\Patron_Adapter\ExamenFinalPatrones\ModeladoPreg4Lib\GeneratedCode\BridgeDestructingMessenger.cs" />
+  <Message Timestamp="2017-11-18T11:07:32" Importance="Diagnostic" Text="Nombre = StructTemplate" />
+  <Message Timestamp="2017-11-18T11:07:32" Importance="Diagnostic" Text="Sobrescribir = True" />
+  <Message Timestamp="2017-11-18T11:07:32" Importance="Diagnostic" Text="ProjectPath = ..\ModeladoPreg4Lib\ModeladoPreg4Lib.csproj" />
+  <Message Timestamp="2017-11-18T11:07:32" Importance="Diagnostic" Text="TargetDirectory = GeneratedCode\{PackageStructure}" />
+  <Message Timestamp="2017-11-18T11:07:32" Importance="Diagnostic" Text="TargetName = {Name}" />
+  <Message Timestamp="2017-11-18T11:07:32" Importance="Diagnostic" Text="TemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 11.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\StructTemplate.t4" />
+  <Message Timestamp="2017-11-18T11:07:32" Importance="Diagnostic" Text="ResolvedTemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 11.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\StructTemplate.t4" />
+  <Message Timestamp="2017-11-18T11:07:32" Importance="Medium" Text="Enlace de plantilla de texto de ModeladoPreg4: 'StructTemplate' aplicará StructTemplate.t4 a: 'ModeladoPreg4::Messaging' -  (Class), 'ModeladoPreg4::QuickMessenger' -  (Class), 'ModeladoPreg4::VIPMessenger' -  (Class), 'ModeladoPreg4::EZMessenger' -  (Class), 'ModeladoPreg4::SecureQuickMessenger' -  (Class), 'ModeladoPreg4::SecureVIPMessenger' -  (Class), 'ModeladoPreg4::SecureEZMessenger' -  (Class), 'ModeladoPreg4::SelfDestructingQuickMessenger' -  (Class), 'ModeladoPreg4::SelfDestructingEZMessenger' -  (Class), 'ModeladoPreg4::SelfDestructingVIPMessenger' -  (Class) " />
+  <Message Timestamp="2017-11-18T11:07:32" Importance="Diagnostic" Text="'ModeladoPreg4::Messaging' -  (Class): no se generó ningún archivo porque el método 'AppliesToElement' de la plantilla 'StructTemplate.t4' se evaluó como false." />
+  <Message Timestamp="2017-11-18T11:07:32" Importance="Diagnostic" Text="'ModeladoPreg4::QuickMessenger' -  (Class): no se generó ningún archivo porque el método 'AppliesToElement' de la plantilla 'StructTemplate.t4' se evaluó como false." />
+  <Message Timestamp="2017-11-18T11:07:32" Importance="Diagnostic" Text="'ModeladoPreg4::VIPMessenger' -  (Class): no se generó ningún archivo porque el método 'AppliesToElement' de la plantilla 'StructTemplate.t4' se evaluó como false." />
+  <Message Timestamp="2017-11-18T11:07:32" Importance="Diagnostic" Text="'ModeladoPreg4::EZMessenger' -  (Class): no se generó ningún archivo porque el método 'AppliesToElement' de la plantilla 'StructTemplate.t4' se evaluó como false." />
+  <Message Timestamp="2017-11-18T11:07:32" Importance="Diagnostic" Text="'ModeladoPreg4::SecureQuickMessenger' -  (Class): no se generó ningún archivo porque el método 'AppliesToElement' de la plantilla 'StructTemplate.t4' se evaluó como false." />
+  <Message Timestamp="2017-11-18T11:07:32" Importance="Diagnostic" Text="'ModeladoPreg4::SecureVIPMessenger' -  (Class): no se generó ningún archivo porque el método 'AppliesToElement' de la plantilla 'StructTemplate.t4' se evaluó como false." />
+  <Message Timestamp="2017-11-18T11:07:32" Importance="Diagnostic" Text="'ModeladoPreg4::SecureEZMessenger' -  (Class): no se generó ningún archivo porque el método 'AppliesToElement' de la plantilla 'StructTemplate.t4' se evaluó como false." />
+  <Message Timestamp="2017-11-18T11:07:32" Importance="Diagnostic" Text="'ModeladoPreg4::SelfDestructingQuickMessenger' -  (Class): no se generó ningún archivo porque el método 'AppliesToElement' de la plantilla 'StructTemplate.t4' se evaluó como false." />
+  <Message Timestamp="2017-11-18T11:07:32" Importance="Diagnostic" Text="'ModeladoPreg4::SelfDestructingEZMessenger' -  (Class): no se generó ningún archivo porque el método 'AppliesToElement' de la plantilla 'StructTemplate.t4' se evaluó como false." />
+  <Message Timestamp="2017-11-18T11:07:32" Importance="Diagnostic" Text="'ModeladoPreg4::SelfDestructingVIPMessenger' -  (Class): no se generó ningún archivo porque el método 'AppliesToElement' de la plantilla 'StructTemplate.t4' se evaluó como false." />
+  <Message Timestamp="2017-11-18T11:07:33" Importance="Diagnostic" Text="La selección incluía 11 elementos que no estaban enlazados a una plantilla." />
+  <Message Timestamp="2017-11-18T11:07:33" Importance="Diagnostic" Text="'e9013ed4-d89b-43af-8130-fe36ec607e99' -  (Generalization): sin plantilla enlazada." />
+  <Message Timestamp="2017-11-18T11:07:33" Importance="Diagnostic" Text="'ec003df8-a388-4ec9-8ec4-0199d3a1012e' -  (Generalization): sin plantilla enlazada." />
+  <Message Timestamp="2017-11-18T11:07:33" Importance="Diagnostic" Text="'581a10b5-d5d0-4ca0-b1ce-a2237f49e2b6' -  (Generalization): sin plantilla enlazada." />
+  <Message Timestamp="2017-11-18T11:07:33" Importance="Diagnostic" Text="'ModeladoPreg4::' -  (Association): sin plantilla enlazada." />
+  <Message Timestamp="2017-11-18T11:07:33" Importance="Diagnostic" Text="'ModeladoPreg4::' -  (Association): sin plantilla enlazada." />
+  <Message Timestamp="2017-11-18T11:07:33" Importance="Diagnostic" Text="'ModeladoPreg4::' -  (InterfaceRealization): sin plantilla enlazada." />
+  <Message Timestamp="2017-11-18T11:07:33" Importance="Diagnostic" Text="'ModeladoPreg4::' -  (InterfaceRealization): sin plantilla enlazada." />
+  <Message Timestamp="2017-11-18T11:07:33" Importance="Diagnostic" Text="'ModeladoPreg4::' -  (InterfaceRealization): sin plantilla enlazada." />
+  <Message Timestamp="2017-11-18T11:07:33" Importance="Diagnostic" Text="'ModeladoPreg4::' -  (InterfaceRealization): sin plantilla enlazada." />
+  <Message Timestamp="2017-11-18T11:07:33" Importance="Diagnostic" Text="'ModeladoPreg4::' -  (InterfaceRealization): sin plantilla enlazada." />
+  <Message Timestamp="2017-11-18T11:07:33" Importance="Diagnostic" Text="'ModeladoPreg4::' -  (InterfaceRealization): sin plantilla enlazada." />
+  <Message Timestamp="2017-11-18T11:07:33" Importance="High" Text="Generación de código completa. Errores: 0. Advertencias: 0." />
+</Log>

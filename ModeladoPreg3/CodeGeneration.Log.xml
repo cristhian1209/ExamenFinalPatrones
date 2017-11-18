@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///C:/PROGRAM FILES (X86)/MICROSOFT VISUAL STUDIO 11.0/COMMON7/IDE/EXTENSIONS/MICROSOFT/ARCHITECTURE TOOLS/EXTENSIBILITY/Logging/CodeGenLog.xslt"?>
+<Log xmlns="http://schemas.microsoft.com/VisualStudio/2010/CodeGen.RE.Log" Label="Registro de generación de código/transformación de texto">
+  <MessageClass Name="Message" Label="Mensaje" Option="Mostrar mensajes informativos" />
+  <MessageClass Name="Warning" Label="Advertencia" Option="Mostrar advertencias" />
+  <MessageClass Name="Error" Label="Error" Option="Mostrar errores" />
+  <MessageClass Name="Property" Label="Propiedad" Option="Mostrar metadatos" />
+  <MessageClass Name="Diagnostic" Label="Mensaje" Option="Mostrar mensajes de diagnóstico" />
+  <Message Timestamp="2017-11-18T10:58:35" Importance="High" Text="Se inició la generación de código o la transformación de texto." />
+  <Message Timestamp="2017-11-18T10:58:35" Importance="Diagnostic" Text="Nombre = ClassTemplate" />
+  <Message Timestamp="2017-11-18T10:58:35" Importance="Diagnostic" Text="Sobrescribir = True" />
+  <Message Timestamp="2017-11-18T10:58:35" Importance="Diagnostic" Text="ProjectPath = ..\ModeladoPreg3Lib\ModeladoPreg3Lib.csproj" />
+  <Message Timestamp="2017-11-18T10:58:35" Importance="Diagnostic" Text="TargetDirectory = GeneratedCode\{PackageStructure}" />
+  <Message Timestamp="2017-11-18T10:58:35" Importance="Diagnostic" Text="TargetName = {Name}" />
+  <Message Timestamp="2017-11-18T10:58:35" Importance="Diagnostic" Text="TemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 11.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\ClassTemplate.t4" />
+  <Message Timestamp="2017-11-18T10:58:35" Importance="Diagnostic" Text="ResolvedTemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 11.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\ClassTemplate.t4" />
+  <Message Timestamp="2017-11-18T10:58:35" Importance="Medium" Text="Enlace de plantilla de texto de ModeladoPreg3: 'ClassTemplate' aplicará ClassTemplate.t4 a: 'ModeladoPreg3::Complejidad' -  (Class), 'ModeladoPreg3::Lineal' -  (Class), 'ModeladoPreg3::Cuadratic' -  (Class), 'ModeladoPreg3::Exponential' -  (Class) " />
+  <Message Timestamp="2017-11-18T10:58:35" Importance="Medium" Text="'ModeladoPreg3::Complejidad' -  (Class): correcto (archivo reemplazado) - C:\Users\POST-GRADO\Desktop\Patron_Adapter\ExamenFinalPatrones\ModeladoPreg3Lib\GeneratedCode\Complejidad.cs" />
+  <Message Timestamp="2017-11-18T10:58:35" Importance="Medium" Text="'ModeladoPreg3::Lineal' -  (Class): correcto (archivo reemplazado) - C:\Users\POST-GRADO\Desktop\Patron_Adapter\ExamenFinalPatrones\ModeladoPreg3Lib\GeneratedCode\Lineal.cs" />
+  <Message Timestamp="2017-11-18T10:58:35" Importance="Medium" Text="'ModeladoPreg3::Cuadratic' -  (Class): correcto (archivo reemplazado) - C:\Users\POST-GRADO\Desktop\Patron_Adapter\ExamenFinalPatrones\ModeladoPreg3Lib\GeneratedCode\Cuadratic.cs" />
+  <Message Timestamp="2017-11-18T10:58:35" Importance="Medium" Text="'ModeladoPreg3::Exponential' -  (Class): correcto (archivo reemplazado) - C:\Users\POST-GRADO\Desktop\Patron_Adapter\ExamenFinalPatrones\ModeladoPreg3Lib\GeneratedCode\Exponential.cs" />
+  <Message Timestamp="2017-11-18T10:58:35" Importance="Diagnostic" Text="Nombre = StructTemplate" />
+  <Message Timestamp="2017-11-18T10:58:35" Importance="Diagnostic" Text="Sobrescribir = True" />
+  <Message Timestamp="2017-11-18T10:58:35" Importance="Diagnostic" Text="ProjectPath = ..\ModeladoPreg3Lib\ModeladoPreg3Lib.csproj" />
+  <Message Timestamp="2017-11-18T10:58:35" Importance="Diagnostic" Text="TargetDirectory = GeneratedCode\{PackageStructure}" />
+  <Message Timestamp="2017-11-18T10:58:35" Importance="Diagnostic" Text="TargetName = {Name}" />
+  <Message Timestamp="2017-11-18T10:58:35" Importance="Diagnostic" Text="TemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 11.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\StructTemplate.t4" />
+  <Message Timestamp="2017-11-18T10:58:35" Importance="Diagnostic" Text="ResolvedTemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 11.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\StructTemplate.t4" />
+  <Message Timestamp="2017-11-18T10:58:35" Importance="Medium" Text="Enlace de plantilla de texto de ModeladoPreg3: 'StructTemplate' aplicará StructTemplate.t4 a: 'ModeladoPreg3::Complejidad' -  (Class), 'ModeladoPreg3::Lineal' -  (Class), 'ModeladoPreg3::Cuadratic' -  (Class), 'ModeladoPreg3::Exponential' -  (Class) " />
+  <Message Timestamp="2017-11-18T10:58:35" Importance="Diagnostic" Text="'ModeladoPreg3::Complejidad' -  (Class): no se generó ningún archivo porque el método 'AppliesToElement' de la plantilla 'StructTemplate.t4' se evaluó como false." />
+  <Message Timestamp="2017-11-18T10:58:36" Importance="Diagnostic" Text="'ModeladoPreg3::Lineal' -  (Class): no se generó ningún archivo porque el método 'AppliesToElement' de la plantilla 'StructTemplate.t4' se evaluó como false." />
+  <Message Timestamp="2017-11-18T10:58:36" Importance="Diagnostic" Text="'ModeladoPreg3::Cuadratic' -  (Class): no se generó ningún archivo porque el método 'AppliesToElement' de la plantilla 'StructTemplate.t4' se evaluó como false." />
+  <Message Timestamp="2017-11-18T10:58:36" Importance="Diagnostic" Text="'ModeladoPreg3::Exponential' -  (Class): no se generó ningún archivo porque el método 'AppliesToElement' de la plantilla 'StructTemplate.t4' se evaluó como false." />
+  <Message Timestamp="2017-11-18T10:58:36" Importance="Diagnostic" Text="La selección incluía 3 elementos que no estaban enlazados a una plantilla." />
+  <Message Timestamp="2017-11-18T10:58:36" Importance="Diagnostic" Text="'2731afad-8936-4379-8e80-1489da78f2ef' -  (Generalization): sin plantilla enlazada." />
+  <Message Timestamp="2017-11-18T10:58:36" Importance="Diagnostic" Text="'6e18bb37-66d6-4802-ba32-91a25c273d9d' -  (Generalization): sin plantilla enlazada." />
+  <Message Timestamp="2017-11-18T10:58:36" Importance="Diagnostic" Text="'0e884b45-7523-4548-a2ef-d31edd8487a3' -  (Generalization): sin plantilla enlazada." />
+  <Message Timestamp="2017-11-18T10:58:36" Importance="High" Text="Generación de código completa. Errores: 0. Advertencias: 0." />
+</Log>
